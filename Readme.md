@@ -14,7 +14,7 @@ Here you can find all the latest and approved artworks.
 
 ## ![](misc/pin_16.png) Logo with text
 
-[![256](banner/banner.png)](banner/png/)
+[![256](banner/cppmf/banner.png)](banner/png/)
 
 
 ## ![](misc/pin_16.png) Misc art
